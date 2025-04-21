@@ -31,7 +31,6 @@ Command Protocol:	Handles /time, /quit, and /echo.
 
 ## How to Run
 
-###bash
 go run main.go --port=4000
 
 Or change port:
@@ -44,7 +43,7 @@ nc localhost 4000
 
 ## Demo Video:
 
-Watch the server in action: YouTube Demo Link
+Watch the server in action: [YouTube Demo Link](https://youtu.be/oJ2y51QGY6s)
 
 
 # Most Educationally Enriching Feature
